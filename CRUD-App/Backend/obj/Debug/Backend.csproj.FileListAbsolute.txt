@@ -1,0 +1,6 @@
+C:\Users\vidya shankar g  p\Desktop\CRUD-App\Backend\bin\Debug\Backend.dll
+C:\Users\vidya shankar g  p\Desktop\CRUD-App\Backend\bin\Debug\Backend.pdb
+C:\Users\vidya shankar g  p\Desktop\CRUD-App\Backend\obj\Debug\Backend.csproj.AssemblyReference.cache
+C:\Users\vidya shankar g  p\Desktop\CRUD-App\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+C:\Users\vidya shankar g  p\Desktop\CRUD-App\Backend\obj\Debug\Backend.dll
+C:\Users\vidya shankar g  p\Desktop\CRUD-App\Backend\obj\Debug\Backend.pdb

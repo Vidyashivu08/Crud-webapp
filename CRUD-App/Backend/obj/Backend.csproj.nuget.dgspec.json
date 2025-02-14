@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\vidya shankar g  p\\Desktop\\CRUD-App\\Backend\\Backend.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\vidya shankar g  p\\Desktop\\CRUD-App\\Backend\\Backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\vidya shankar g  p\\Desktop\\CRUD-App\\Backend\\Backend.csproj",
+        "projectName": "Backend",
+        "projectPath": "c:\\Users\\vidya shankar g  p\\Desktop\\CRUD-App\\Backend\\Backend.csproj",
+        "packagesPath": "C:\\Users\\vidya shankar g  p\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\vidya shankar g  p\\Desktop\\CRUD-App\\Backend\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\vidya shankar g  p\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
